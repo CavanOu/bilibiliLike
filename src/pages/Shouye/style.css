@@ -1,0 +1,9 @@
+.m-home {
+    background: #fff;
+    position: relative;
+    top: 22.4vw;
+}
+
+.m-home .video-list {
+    padding: 0 1.33333vw;
+}
