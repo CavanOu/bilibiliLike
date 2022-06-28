@@ -2,7 +2,7 @@
   "name": "bilibiliLike",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/CavanOu/CavanOu.github.io",
+  "homepage": "https://github.com/CavanOu/bilibiliLike",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
