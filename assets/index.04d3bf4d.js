@@ -1,0 +1,1 @@
+import{r as s,g as r,j as e,F as n,V as c}from"./index.48f76b49.js";function d(){const[t,a]=s.exports.useState();return s.exports.useEffect(()=>{(async()=>{const{data:o}=await r();a(o)})()},[]),console.log(t),e(n,{children:e(c,{videos:t})})}export{d as default};
