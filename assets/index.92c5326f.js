@@ -1,0 +1,1 @@
+import{r as t,a as r,j as s,F as i,V as n}from"./index.e1b189dc.js";function d(){const[e,a]=t.exports.useState();return t.exports.useEffect(()=>{(async()=>{const{data:o}=await r();a(o)})()},[]),s(i,{children:s(n,{videos:e})})}export{d as default};
